@@ -1,6 +1,6 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(license} {
+function renderLicenseBadge(license) {
   if (license){
     return `![License](https://img.shields.i0/badge/License-${license}-brightgreen)`
   }
@@ -19,8 +19,8 @@ function renderLicenseLink(license) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   if (license) {
-    return License
-    This project is licensed under the ${license} license. Click [here](https://opensourx.org/licenses/${license}); for more information
+    return `License
+    This project is licensed under the ${license} license. Click [here](https://opensourx.org/licenses/${license}); for more information`
   }
   return '';
 }
@@ -29,8 +29,8 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   // Use the provided data to dynamically generate the Readme content
 return`# ${data.title}
-
-${renderLiceseBadge(data.license)}
+## license
+${renderLicenseBadge(license)}
 
  ${data.description}
 
