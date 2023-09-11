@@ -6,32 +6,32 @@ const { generateMarkdown } = require("./utils/generateMarkdown");
 const questions = [
   {
     type: "input",
-    message: "ReadMe Generate",
+    message: "What is the title of your project",
     name: "title",
   },
   {
     type: "input",
-    message: "this will create a professional readme",
+    message: "tell me about your project",
     name: "description",
   },
   {
     type: "input",
-    message: "process npm i, run node index.js, then answer questions",
+    message: "how do you run this project",
     name: "installationInstructions",
   },
   {
     type: "Input",
-    message: "",
+    message: "what is this used for",
     name: "usage",
   },
   {
     type: "Input",
-    message: "Charlie, Bobbi and Jacob",
+    message: "Who are the other contributing developers",
     name: "contributing",
   },
   {
     type: "Input",
-    message: "not set up",
+    message: "are there any test to run",
     name: "test",
   },
   {
@@ -42,13 +42,18 @@ const questions = [
   },
   {
     type: "input",
-    message: "challenge-9ReadMe",
+    message: "what is the github name for this project",
     name: "github",
   },
   {
     type: "Input",
     message: "enter your email",
     name: "email",
+  },
+  {
+    type: "Input",
+    message: "are there any questions?",
+    name: "questions",
   }
 ];
 

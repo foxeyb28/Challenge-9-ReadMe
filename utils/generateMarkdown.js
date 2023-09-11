@@ -62,7 +62,7 @@ ${data.questions}
 ${data.email}
 
 # Github
-${data.githubhttps://github.com/foxeyb28/)}
+{(https://github.com/foxeyb28)}
 
 `};
 

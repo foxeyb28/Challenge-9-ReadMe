@@ -1,38 +1,32 @@
 
 # Title
-a
+Generate ReadMe
 
 ## Description 
-a
+used to create a professional readMe
 
 ## Installation Instructions
-a
+npm i, run node index.js then answer the questions
 
 ## Usage
-a
+to cut down time when coding
 
 ## License
-MIT
+[![License: MIT](https://img.shields.i0/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[License](https://opensource.org/licenses/MIT)
 
 ## Contributing
-a
+charlie, bobbi and jacob
 
 ## Test
-a
+not at this time
 
 # Questions
-undefined
+not at this time
 
 # Email
-a
+foxeyb@yahoo.com
 
 # Github
-a
-
-
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[License](https://opensource.org/licenses/MIT)
-License
-    This project is licensed under the MIT license. Click [here](https://opensource.org/license/gpl-2-0/MIT); for more information
+{(https://github.com/foxeyb28)}
 
