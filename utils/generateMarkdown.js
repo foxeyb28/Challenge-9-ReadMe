@@ -62,12 +62,8 @@ ${data.questions}
 ${data.email}
 
 # Github
-${data.github}
+${data.githubhttps://github.com/foxeyb28/)}
 
-
-
-${renderLicenseBadge(data.license)}
-${renderLicenseLink(data.license)}
 `};
 
 // github user link example: https://github.com/foxeyb28
