@@ -61,8 +61,11 @@ ${data.questions}
 # Email
 ${data.email}
 
-# Github
-{(https://github.com/foxeyb28)}
+# Github 
+https://github.com/foxeyb28/Challenge-9-ReadMe
+
+## Screencastify
+https://drive.google.com/file/d/1z2i-7DyAyAsR6fCQXhy54RzZ1c1DSnZv/view
 
 `};
 
